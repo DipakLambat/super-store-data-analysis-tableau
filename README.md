@@ -1,7 +1,5 @@
 # Sample Super Store Dashboard (Tableau)
 
-![Dashboard Preview](./superstore_dashboard.png)
-
 An interactive **Tableau dashboard** built using the **Sample Superstore
 dataset** to analyze business performance across **sales, profit,
 customers, products, regions, and shipping modes**.
